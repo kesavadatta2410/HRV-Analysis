@@ -1,0 +1,16 @@
+{
+  "sleep_quality_score": 55.2,
+  "grade": "Fair",
+  "pct_deep": 73.1,
+  "pct_rem": 26.9,
+  "pct_light": 0.0,
+  "pct_wake": 0.0,
+  "arousal_index": 25.99,
+  "n_nightmares": 0,
+  "n_arousals": 13,
+  "architecture_score": 17.5,
+  "hrv_score": 30,
+  "arousal_score": 0,
+  "continuity_score": 7.7,
+  "sleep_hours": 0.5
+}
